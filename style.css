@@ -6,4 +6,6 @@ body {
 
 .text-big {
 	font-size: 120%;
+	color: white;
+	font-weight: bold;
 }
